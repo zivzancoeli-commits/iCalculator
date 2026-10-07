@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A small programable arm chip that looks like a calculator.
+> A small programable chip that looks like a calculator.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
